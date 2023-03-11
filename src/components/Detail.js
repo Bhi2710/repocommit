@@ -93,7 +93,7 @@ const Detail = () => {
                                         </Button>
                                     </Stack>
                                     <Stack>
-                                      <Commit />
+                                      <Commit items = {ele}/>
                                     </Stack>
                                 </AccordionDetails>
                             </Accordion>
